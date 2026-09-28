@@ -121,12 +121,12 @@ This allows a visual comparison between the human-generated annotations and the 
 - Kaggle
 
 ---
+
+```markdown
 ## Project Structure
 
-```text
-bsds500-boundary-detection-unet/
-│
-├── bsds500_boundary_detection_unet.ipynb
-├── bsds500_unet_boundary_model.keras
+bsds500-boundary-detection-unet/  
+│  
+├── bsds500_boundary_detection_unet.ipynb  
+├── bsds500_unet_boundary_model.keras  
 └── README.md
-```
