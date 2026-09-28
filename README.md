@@ -123,7 +123,7 @@ This allows a visual comparison between the human-generated annotations and the 
 ---
 ## Project Structure
 
-
+```text
 bsds500-boundary-detection-unet/
 │
 ├── bsds500_boundary_detection_unet.ipynb
